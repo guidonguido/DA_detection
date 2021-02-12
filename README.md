@@ -10,7 +10,7 @@ This repository implements [SSD (Single Shot MultiBox Detector)](https://arxiv.o
 
 <div align="center">
   <img src="figures/Domain_Transfer1.jpg" width="500px" />
-  <p>Example AdaIN online translation (vgg_ssd300_voc0712).</p>
+  <p>Example AdaIN online translation (gg_ssd300_voc0712_variation).</p>
 </div>
 
 
