@@ -1,4 +1,4 @@
-# High quality, fast, modular reference implementation of SSD in PyTorch 1.0
+# Unsupervised cross-domain object detection based on SSD in PyTorch 1.0
 
 
 This repository implements [SSD (Single Shot MultiBox Detector)](https://arxiv.org/abs/1512.02325). The basecode is heavely influenced by [this implementation](https://github.com/lufficc/SSD) and the Domain Transfer rely on [AdaIN}(https://github.com/irasin/Pytorch_AdaIN) 
